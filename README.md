@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 The IoT Challenge Contest is an annual premier competition in the field of IoT in Vietnam, sponsored by [Silicon Labs](https://www.silabs.com/) and organized by [FPT Software](https://fptsoftware.com/), aimed at discovering innovative solutions using IoT devices and grooming the young talent.  
 Every year, this contest attracted hundreds of students from top technology universities in Vietnam.
+
+[2025: Competition organized here](https://github.com/IoT-Challenge-2025)
